@@ -7,7 +7,7 @@
 
 <p>
   
-Hi 👋, I am **Rayner Rodríguez **
+Hi 👋, I am **Rayner Rodríguez**
 
 <div>
 <details>
@@ -15,7 +15,7 @@ Hi 👋, I am **Rayner Rodríguez **
 
 - 🔭 I’m currently on a journey to build **great** things
 
-- 🌱 I’m currently learning **Machine Learning, Deep learning and anything related to AI"
+- 🌱 I’m currently learning **Machine Learning, Deep learning and anything related to AI"**
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
@@ -46,8 +46,6 @@ Hi 👋, I am **Rayner Rodríguez **
 
 <p align="left">
   <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-<p align="right">
  
   <a href="https://github.com/thenetworkme?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FGiingu"/></a>
