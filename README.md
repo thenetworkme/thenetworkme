@@ -79,7 +79,7 @@ Tech enthusiast focused on web dev, cloud, and AI. Love bringing ideas to life t
 
 
 ## Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rayner-jos%C3%A9-rodr%C3%ADguez-jim%C3%A9nez-5b9692369/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Rayner-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](www.linkedin.com/in/rayner-josé-rodríguez-jiménez-5b9692369)
 
 
 ## Contact:
