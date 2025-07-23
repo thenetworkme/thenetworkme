@@ -1,4 +1,6 @@
-# Welcome, I'm Rayner Rodríguez 👋
+ # Welcome, I'm Rayner Rodríguez 👋
+
+![banner](ban.png)
 
 ## About Me
 
