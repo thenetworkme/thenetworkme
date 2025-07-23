@@ -60,7 +60,7 @@ Tech enthusiast focused on web dev, cloud, and AI. Love bringing ideas to life t
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
@@ -76,10 +76,6 @@ Tech enthusiast focused on web dev, cloud, and AI. Love bringing ideas to life t
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
-
-
-## Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Rayner-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](www.linkedin.com/in/rayner-josé-rodríguez-jiménez-5b9692369)
 
 
 ## Contact:
