@@ -12,7 +12,7 @@ Tech enthusiast focused on web dev, cloud, and AI. Love bringing ideas to life t
 </br>
 
 ### Full Stack Developer
-[![GitHub Streak](https://streak-stats.demolab.com?user=BugNetwork&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thenetworkme&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
  <!-- <img src="https://raw.githubusercontent.com/INGCapaDev/INGCapaDev/output/snake.svg" alt="Snake animation" />
   
   #### 🏆 GitHub Trophies
